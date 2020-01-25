@@ -1,9 +1,13 @@
-### IPFS URI Scheme application 
-This repository hold the application found in application.md
+## IPFS URI Scheme application 
+This repository hold the application found in [application.md](application.md)
 
-## INSTALL instructions 
-to make the application from markdown using pandoc: 
+### Prerequisites
+- [pandoc](https://pandoc.org/installing.html) 
+- [pandoc-citeproc](https://pandoc.org/installing.html)
+
+### INSTALL instructions 
+to make the application as a pdf from markdown using pandoc: 
 
 ```
-pandoc --filter pandoc-citeproc --bibliography=application.bib --variable classoption=onecolumn --variable papersize=a4paper -s application.md -o application.pdf 
+make paper
 ```
