@@ -11,5 +11,7 @@ and the synopsis found in [ipfs.md](ipfs.md).
 to make the application as a pdf from markdown using pandoc: 
 
 ```
-make paper
+make application
+
+make synopsis
 ```
