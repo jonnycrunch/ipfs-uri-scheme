@@ -1,5 +1,7 @@
 ## IPFS URI Scheme application 
-This repository hold the application found in [application.md](application.md)
+This repository contains the application for the `ipfs://` scheme IANA application found in [application.md](application.md)
+and the synopsis found in [ipfs.md](ipfs.md).  
+
 
 ### Prerequisites
 - [pandoc](https://pandoc.org/installing.html) 
