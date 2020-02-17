@@ -138,5 +138,5 @@ These are people we would like to thanks
 
 # References
 
-[1] Paper #1
+[1] Paper #1, describing IPFS white paper
 
